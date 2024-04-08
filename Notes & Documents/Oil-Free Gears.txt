@@ -1,0 +1,11 @@
+Geared transmissions designed to operate without oil leverage advanced materials and innovative engineering to achieve efficient power transfer and durability. Among these, dry-running gears stand out, utilizing self-lubricating materials that inherently reduce friction and wear, such as composites embedded with graphite or PTFE. These materials release lubricant particles throughout their lifespan, maintaining smooth operation.
+
+Magnetic gears present another intriguing option, relying on magnetic forces to transmit torque between non-contacting components. This eliminates mechanical wear and the need for lubrication, offering a unique solution for applications requiring clean or vacuum environments.
+
+Electrostatic geared transmissions harness electrostatic forces to transmit power between components. Although less common, this method offers a novel approach to achieving oil-free operation, particularly in specialized applications where magnetic interference or contamination is a concern.
+
+Hydrodynamic and hydrostatic gears utilize fluid films, often water or other non-oil-based fluids, to create a lubricating layer between gear surfaces. While these still involve a fluid medium, they avoid the use of traditional oil-based lubricants, making them suitable for environmentally sensitive applications.
+
+Finally, solid lubricant-coated gears, treated with materials like diamond-like carbon or ceramic coatings, provide a hard, low-friction surface that resists wear and eliminates the need for oil-based lubricants. These coatings are applied through advanced processes such as physical or chemical vapor deposition, enhancing gear longevity and performance.
+
+Each of these oil-free geared transmission types offers unique advantages and challenges, tailored to specific applications where traditional lubricants are undesirable or impractical. The choice among them depends on factors like load capacity, environmental conditions, and the specific requirements of the application at hand.
