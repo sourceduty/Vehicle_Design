@@ -66,7 +66,7 @@ Aerodynamic properties and performance on a dynamo (dynamometer) may be part of 
 #
 ### Related Links
 
-[Lusury Cars](https://github.com/sourceduty/Luxury_Cars)
+[Luxury Cars](https://github.com/sourceduty/Luxury_Cars)
 <br>
 [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
 <br>
