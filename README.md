@@ -1,4 +1,4 @@
-![Tesla Body Design](https://github.com/sourceduty/Vehicle_Design/assets/123030236/1d78f17e-0e35-4c52-8bd1-f78280a6daf3)
+![Truck](https://github.com/sourceduty/Vehicle_Design/assets/123030236/a57f3e02-d98a-47ec-a40f-be47348cdd14)
 
 #
 ### Vehicle Design Culture
@@ -7,6 +7,8 @@ Car culture represents a global phenomenon that intertwines with personal identi
 
 #
 ### Vehicle Design Evolution
+
+![Tesla Body Design](https://github.com/sourceduty/Vehicle_Design/assets/123030236/1d78f17e-0e35-4c52-8bd1-f78280a6daf3)
 
 The evolution of car design from 1900 to 2024 is a fascinating journey marked by radical transformations reflecting technological advancements, changing societal needs, and aesthetic trends. In the early 20th century, automobiles were rudimentary machines, often resembling horse-drawn carriages without the horses, with designs focused on basic functionality and the novelty of motorized transport. As the decades progressed, the 1920s and 1930s saw the introduction of more stylized and aerodynamic shapes, influenced by Art Deco and the streamlining movement, aiming for beauty and speed. Post-World War II, the 1950s and 1960s ushered in an era of optimism and prosperity, reflected in car designs with extravagant fins, chrome embellishments, and vibrant colors. The oil crises of the 1970s pivoted the focus towards fuel efficiency, leading to smaller, more economical car designs. The late 20th and early 21st centuries have seen a strong emphasis on safety, environmental concerns, and technology integration, with cars becoming more aerodynamic, incorporating advanced materials and digital technologies. By 2024, car design is heavily influenced by the advent of electric vehicles, autonomous driving technologies, and a renewed focus on sustainability, leading to innovative designs that prioritize efficiency, connectivity, and minimal environmental impact, while still maintaining aesthetic appeal and driving pleasure.
 
@@ -62,7 +64,14 @@ Aerodynamic properties and performance on a dynamo (dynamometer) may be part of 
 ```
 
 #
+### Related Links
 
+[Lusury Cars](https://github.com/sourceduty/Luxury_Cars)
+<br>
+[Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
+<br>
+[WW2](https://github.com/sourceduty/WW2)
+<br>
 Sourceduty also shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 ***
