@@ -1,4 +1,4 @@
-![Car Design](https://github.com/sourceduty/Vehicle_Design/assets/123030236/ad6cce6d-9079-4708-9fc8-c36c8b2f17ae)
+![Land Rover Pickup Truck Concept](https://github.com/sourceduty/Vehicle_Design/assets/123030236/ba5a9403-6a1c-41e7-873c-ce479186d246)
 
 #
 ### Vehicle Design Culture
