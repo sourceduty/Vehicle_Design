@@ -133,6 +133,8 @@ Experimental vehicle design pushes the boundaries of innovation and imagination,
 [Vehicle Speed Reducer](https://github.com/sourceduty/Vehicle_Speed_Reducer)
 <br>
 [EV Charging](https://github.com/sourceduty/EV_Charging)
+<br>
+[Car Analyst](https://chat.openai.com/g/g-PFjbg13oy-car-analyst)
 
 Sourceduty also shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
