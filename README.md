@@ -120,8 +120,6 @@ In the realm of future car design, sleek aerodynamics merge seamlessly with sust
 <br>
 [Vehicle Route](https://github.com/sourceduty/Predictive_Route)
 <br>
-[Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
-<br>
 [Vehicle Speed Reducer](https://github.com/sourceduty/Vehicle_Speed_Reducer)
 <br>
 [EV Charging](https://github.com/sourceduty/EV_Charging)
