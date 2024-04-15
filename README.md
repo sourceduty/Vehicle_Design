@@ -84,6 +84,26 @@ Scale modeling in automotive design is a meticulous craft that allows designers 
 <br>    
 </details>
 
+<details><summary>Body Design</summary>
+<br>
+
+![Body Design](https://github.com/sourceduty/Vehicle_Design/assets/123030236/37779e42-0b79-4a61-b9da-bbcef6380f85)
+
+Vehicle body design is an artful fusion of aesthetics, aerodynamics, and functionality, shaping the exterior form of automobiles. Various types of body designs cater to different needs and preferences, ranging from the sleek and sporty coupe, characterized by its two-door configuration and flowing roofline, to the versatile and spacious sedan, offering four doors and ample interior room for passengers and cargo. The rugged and adventurous SUV (Sport Utility Vehicle) boasts a raised ground clearance and robust frame, ideal for off-road excursions and urban exploration alike. Meanwhile, the practicality of the hatchback design integrates a rear door that opens upward, maximizing cargo space while maintaining a compact footprint. Each body style serves as a canvas for automotive designers to express creativity while fulfilling diverse consumer demands.
+
+<br>    
+</details>
+
+<details><summary>Future Vehicles</summary>
+<br>
+
+![Future Car](https://github.com/sourceduty/Vehicle_Design/assets/123030236/3fec6f20-2eee-4cca-baaa-f9c5d380772d)
+
+In the realm of future car design, sleek aerodynamics merge seamlessly with sustainable materials, resulting in vehicles that are not only visually stunning but also environmentally conscious. Advanced AI systems are integrated into every aspect of the vehicle, from autonomous driving capabilities to personalized in-car experiences. The exterior boasts dynamic lines and curves optimized for both performance and efficiency, while the interior is a sanctuary of comfort and connectivity, where passengers can seamlessly interact with their surroundings. Utilizing cutting-edge technologies such as augmented reality displays and biometric sensors, future cars redefine the driving experience, prioritizing safety, efficiency, and luxury in equal measure.
+
+<br>    
+</details>
+
 ***
 
 ### Related Links
