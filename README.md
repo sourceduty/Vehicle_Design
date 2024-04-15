@@ -29,7 +29,7 @@ The FMVSS are prescriptive regulations specifying the design, construction, perf
 Aerodynamic properties and performance on a dynamo (dynamometer) may be part of the vehicle development process for manufacturers to meet certain performance, fuel economy, and emissions standards, but they are not explicitly outlined as required tests in the FMVSS.
 
 #
-### Clay Modelling
+### Concept Modelling
 
 Clay models play a pivotal role in automotive design, serving as tangible representations of conceptual ideas before they hit the production line. Crafted by skilled artisans and designers, these models offer a three-dimensional perspective that digital renderings often struggle to match. Far from being fake, they are authentic embodiments of design intent, allowing designers and engineers to assess proportions, surfaces, and aerodynamics in a physical form. Typically, these models are created in a scale of 1:4 or 1:8, providing a manageable size for manipulation and scrutiny while retaining enough detail to accurately represent the final vehicle design.
 
