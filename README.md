@@ -121,6 +121,10 @@ In the realm of future car design, sleek aerodynamics merge seamlessly with sust
 [Vehicle Route](https://github.com/sourceduty/Predictive_Route)
 <br>
 [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
+<br>
+[Vehicle Speed Reducer](https://github.com/sourceduty/Vehicle_Speed_Reducer)
+<br>
+[EV Charging](https://github.com/sourceduty/EV_Charging)
 
 Sourceduty also shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
