@@ -115,7 +115,12 @@ In the realm of future car design, sleek aerodynamics merge seamlessly with sust
 [WW2](https://github.com/sourceduty/WW2)
 <br>
 [Car Design](https://github.com/sourceduty/Car_Design)
-
+<br>
+[Road Optimizer](https://github.com/sourceduty/Road_Optimizer)
+<br>
+[Vehicle Route](https://github.com/sourceduty/Predictive_Route)
+<br>
+[Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
 
 Sourceduty also shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
