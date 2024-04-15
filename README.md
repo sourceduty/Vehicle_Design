@@ -1,4 +1,4 @@
-![Truck](https://github.com/sourceduty/Vehicle_Design/assets/123030236/a57f3e02-d98a-47ec-a40f-be47348cdd14)
+![Car Design](https://github.com/sourceduty/Vehicle_Design/assets/123030236/ad6cce6d-9079-4708-9fc8-c36c8b2f17ae)
 
 #
 ### Vehicle Design Culture
@@ -29,39 +29,9 @@ The FMVSS are prescriptive regulations specifying the design, construction, perf
 Aerodynamic properties and performance on a dynamo (dynamometer) may be part of the vehicle development process for manufacturers to meet certain performance, fuel economy, and emissions standards, but they are not explicitly outlined as required tests in the FMVSS.
 
 #
-### Tips & tricks
+### Clay Modelling
 
-```
-1. Start with a Clear Purpose: Define the primary function of your vehicle. Is it meant for speed, off-road, utility, luxury, or a combination of purposes?
-
-2. Sketch Your Ideas: Begin with rough sketches to explore different shapes and proportions. Don't worry about perfection in the early stages.
-
-3. Consider Aerodynamics: The shape of your vehicle affects its efficiency and performance. Use fluid shapes to reduce drag.
-
-4. Focus on Ergonomics: Ensure that the interior design prioritizes the comfort and accessibility of controls for the driver and passengers.
-
-5. Pay Attention to Weight Distribution: Proper weight distribution is crucial for the vehicle's handling and stability.
-
-6. Use Technology Wisely: Incorporate technology that enhances the vehicle's functionality, safety, and user experience without overwhelming the user.
-
-7. Be Mindful of Materials: Choose materials that balance weight, strength, sustainability, and cost. Consider innovative materials for better performance and efficiency.
-
-8. Think About Manufacturability: Design with the manufacturing process in mind to avoid complicated designs that are difficult and costly to produce.
-
-9. Safety is Paramount: Design the vehicle with safety features and structural integrity to protect passengers in case of accidents.
-
-10. Test and Iterate: Build prototypes to test your designs. Use feedback and test results to refine and improve the vehicle.
-
-11. Keep an Eye on Trends: Stay updated with the latest design trends, technologies, and regulatory standards in the automotive industry.
-
-12. Sustainability Matters: Consider the environmental impact of your vehicle, from fuel efficiency to the materials used and the manufacturing process.
-
-13. Create a Strong Brand Identity: Your vehicle's design should reflect the brand's values and appeal to the target audience.
-
-14. Don't Ignore the Details: Small design elements can make a big difference in the overall appearance and functionality of the vehicle.
-
-15. Stay Creative: Finally, don't be afraid to innovate and push the boundaries of traditional vehicle design.
-```
+Clay models play a pivotal role in automotive design, serving as tangible representations of conceptual ideas before they hit the production line. Crafted by skilled artisans and designers, these models offer a three-dimensional perspective that digital renderings often struggle to match. Far from being fake, they are authentic embodiments of design intent, allowing designers and engineers to assess proportions, surfaces, and aerodynamics in a physical form. Typically, these models are created in a scale of 1:4 or 1:8, providing a manageable size for manipulation and scrutiny while retaining enough detail to accurately represent the final vehicle design.
 
 #
 ### Related Links
