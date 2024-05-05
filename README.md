@@ -41,7 +41,8 @@ Less Innovative Brands:
 
 These less innovative brands tend to prioritize factors like reliability, affordability, and brand consistency over groundbreaking technological advancements.
 
-***
+#
+### Notes
 
 <details><summary>Vehicle Production Laws</summary>
 <br>
@@ -114,7 +115,7 @@ Experimental vehicle design pushes the boundaries of innovation and imagination,
 <br>    
 </details>
 
-***
+#
 
 ### Related Links
 
