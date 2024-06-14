@@ -1,4 +1,4 @@
-![Land Rover Pickup Truck Concept](https://github.com/sourceduty/Vehicle_Design/assets/123030236/ba5a9403-6a1c-41e7-873c-ce479186d246)
+![Gullwing Doors Truck Concept](https://github.com/sourceduty/Vehicle_Design/assets/123030236/bab0bf11-ef28-477c-ba2f-696eb8b66d39)
 
 #
 ### Vehicle Design Culture
