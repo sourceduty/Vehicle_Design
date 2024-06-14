@@ -108,7 +108,7 @@ In the realm of future car design, sleek aerodynamics merge seamlessly with sust
 <details><summary>Experimental Vehicles</summary>
 <br>
 
-![Gullwing Doors Truck Concept](https://github.com/sourceduty/Vehicle_Design/assets/123030236/3b90e37f-23cd-4d65-9225-94364ca0f933)
+![Rear Rolling Shutter Door Concept 2](https://github.com/sourceduty/Vehicle_Design/assets/123030236/d32b4b74-5a36-4ed2-aaeb-8be575b631ad)
 
 Experimental vehicle design pushes the boundaries of innovation and imagination, transcending conventional norms to explore the uncharted realms of transportation. It embodies a fusion of cutting-edge technology, daring creativity, and a relentless pursuit of efficiency and sustainability. From sleek aerodynamic shapes to revolutionary propulsion systems, every aspect is meticulously crafted to challenge the status quo and redefine the future of mobility. These vehicles serve as testbeds for groundbreaking concepts, pushing the limits of engineering feasibility and offering a glimpse into what lies ahead on the horizon of transportation evolution. Experimental vehicle design is not just about creating machines; it's about envisioning possibilities and daring to bring them to life on the road less traveled.
 
