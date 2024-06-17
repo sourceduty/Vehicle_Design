@@ -55,7 +55,6 @@ Furthermore, the safety standards extend beyond the initial manufacturing proces
 
 <br>    
 </details>
-
 <details><summary>Vehicle Production Testing</summary>
 <br>
 
@@ -70,7 +69,6 @@ Aerodynamic properties and performance on a dynamo (dynamometer) may be part of 
 
 <br>    
 </details>
-
 <details><summary>Concept Modelling</summary>
 <br>
 
@@ -84,7 +82,6 @@ Scale modeling in automotive design is a meticulous craft that allows designers 
 
 <br>    
 </details>
-
 <details><summary>Body Design</summary>
 <br>
 
@@ -104,7 +101,6 @@ In the realm of future car design, sleek aerodynamics merge seamlessly with sust
 
 <br>    
 </details>
-
 <details><summary>Experimental Vehicles</summary>
 <br>
 
@@ -114,7 +110,6 @@ Experimental vehicle design pushes the boundaries of innovation and imagination,
 
 <br>    
 </details>
-
 <details><summary>Pickup Truck Design</summary>
 <br>
 
@@ -128,7 +123,6 @@ Technological advancements have also played a crucial role in the evolution of p
 
 <br>    
 </details>
-
 <details><summary>Snowmobile Design</summary>
 <br>
 
@@ -141,6 +135,19 @@ A key aspect of contemporary snowmobile design is the engine. Today's snowmobile
 The suspension system in snowmobiles has also seen significant improvements. Modern designs incorporate advanced suspension technologies that provide better shock absorption and handling on uneven terrains. Independent front suspension and sophisticated rear suspension systems allow for smoother rides and better control. Adjustable suspension settings enable riders to customize their snowmobiles based on riding conditions and personal preferences, enhancing the overall riding experience. The use of lightweight, durable materials in suspension components also contributes to the vehicle's improved performance and maneuverability.
 
 Ergonomics and rider comfort are critical considerations in snowmobile design. Manufacturers aim to create vehicles that are comfortable for long rides and capable of accommodating various body types. This includes designing seats that provide adequate support, handlebars that are adjustable for different riding positions, and controls that are easy to reach and operate. Heated grips and seats are common features in high-end models, enhancing comfort in cold weather. Additionally, aerodynamic designs reduce wind resistance and improve stability at high speeds, making modern snowmobiles more user-friendly and enjoyable to ride.
+
+<br>    
+</details>
+<details><summary>Stainless Sphere Wheels</summary>
+<br>
+
+![Dope Dodge Charger Concept](https://github.com/sourceduty/Vehicle_Design/assets/123030236/9c90fbcb-da06-4701-9a07-6bddc2d9bb1b)
+
+Stainless steel sphere wheels represent a futuristic and radical departure from conventional automotive design. These wheels, with their seamless, reflective surfaces, evoke a sense of innovation and modernity. Unlike traditional tires and rims, stainless steel spheres provide an uninterrupted, glossy finish that can reflect the surrounding environment, creating a visually striking effect. The design not only looks sleek but also suggests advancements in material science and engineering, as the wheels need to be perfectly balanced and engineered to withstand the rigors of driving.
+
+One of the primary advantages of stainless steel sphere wheels is their durability and resistance to corrosion. Stainless steel, known for its robustness and longevity, ensures that these wheels can endure harsh environmental conditions without rusting or deteriorating. This makes them particularly suitable for long-term use and for vehicles exposed to varying weather patterns. Additionally, their smooth, spherical shape reduces the accumulation of dirt and debris, making maintenance easier and ensuring that the wheels retain their polished appearance with minimal effort.
+
+However, the implementation of stainless steel sphere wheels also presents several challenges. The most significant is the need for specialized suspension systems and chassis modifications to accommodate the unique shape and weight distribution of spherical wheels. Traditional steering and braking systems would need to be re-engineered to ensure safety and performance. Furthermore, the manufacturing process for such wheels would likely be complex and costly, potentially limiting their accessibility. Despite these challenges, the concept of stainless steel sphere wheels pushes the boundaries of automotive design, inspiring future innovations and reimagining the possibilities for the vehicles of tomorrow.
 
 <br>    
 </details>
