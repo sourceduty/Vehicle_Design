@@ -113,7 +113,7 @@ Experimental vehicle design pushes the boundaries of innovation and imagination,
 <details><summary>Pickup Truck Design</summary>
 <br>
 
-![Nasty Green Farm Truck](https://github.com/sourceduty/Vehicle_Design/assets/123030236/31bfda04-453c-4b70-91b2-0398a469eeda)
+![F-150 Lightning](https://github.com/sourceduty/Vehicle_Design/assets/123030236/a5f4070c-1ae2-4f4d-b82d-36d694aff528)
 
 Pickup truck design has evolved significantly over the decades, reflecting changing consumer demands, technological advancements, and aesthetic trends. Early pickup trucks were utilitarian workhorses, designed primarily for durability and functionality. They featured simple, boxy shapes with minimal ornamentation, emphasizing their ability to carry heavy loads and navigate rough terrains. These trucks were built with robust frames, high ground clearance, and powerful engines to ensure they could handle the toughest tasks. Over time, however, as pickup trucks gained popularity beyond just commercial use, their design began to incorporate more elements of comfort and style.
 
