@@ -126,7 +126,7 @@ Technological advancements have also played a crucial role in the evolution of p
 <details><summary>Snowmobile Design</summary>
 <br>
 
-![Polaris XLT Snowmobile](https://github.com/sourceduty/Vehicle_Design/assets/123030236/5f4c3e75-6a2b-4c2c-9f93-aeb6131e5581)
+![Viddle Electric](https://github.com/sourceduty/Vehicle_Design/assets/123030236/180620f4-394c-419b-9bca-6d8567f4d907)
 
 Snowmobile design has evolved significantly since the inception of these vehicles in the early 20th century. Initially, snowmobiles were rudimentary machines with limited functionality and poor ergonomics. Early designs focused on basic transportation, using minimalistic structures to navigate snowy terrains. Over time, technological advancements led to improvements in engines, suspensions, and overall build quality. Modern snowmobiles are sophisticated machines that blend engineering precision with practical functionality, ensuring safety, reliability, and comfort in harsh winter conditions.
 
