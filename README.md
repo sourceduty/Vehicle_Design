@@ -166,6 +166,15 @@ Beyond its technical and aesthetic features, the Interceptor serves as a powerfu
 
 <br>    
 </details>
+<details><summary>Car Key Fob Range Hack</summary>
+<br>
+
+![Car Key Fob](https://github.com/sourceduty/Vehicle_Design/assets/123030236/52798e58-69c5-4d62-a9db-1547c05e656b)
+
+While not scientifically proven in a rigorous manner, many people have found that holding their car remote to their head does seem to increase the range. This phenomenon can be explained by the human body's potential to act as an antenna and help in the signal propagation. If you're ever in a situation where your car remote seems out of range, it might be worth trying this simple trick.
+
+<br>    
+</details>
 
 #
 
