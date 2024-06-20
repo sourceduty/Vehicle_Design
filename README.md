@@ -250,6 +250,21 @@ Despite their benefits, fender skirts are not universally popular and are someti
 
 <br>    
 </details>
+<details><summary>Electric Dirt Bikes</summary>
+<br>
+
+![HONDA CR-E ELECTRIC PROTOTYPE](https://github.com/sourceduty/Vehicle_Design/assets/123030236/1d7598a5-9671-4c29-b8a8-4930510c54e3)
+
+Electric dirt bikes have revolutionized the off-road biking experience, offering a cleaner and quieter alternative to traditional gasoline-powered models. One of the leading brands in this space is KTM, known for its high-performance motorcycles. KTM's electric dirt bike lineup, particularly the KTM Freeride E-XC, has garnered significant attention. This model boasts impressive torque and an agile, lightweight frame, making it a favorite among enthusiasts. The bike's electric powertrain provides a smooth and powerful ride, ideal for both seasoned riders and newcomers to the sport. KTM's commitment to innovation and sustainability is evident in its development of electric models that do not compromise on performance.
+
+Honda, another major player in the motorcycle industry, has also made strides in the electric dirt bike market. Honda's CR Electric prototype has been a focal point of interest. This bike combines Honda's renowned engineering prowess with cutting-edge electric technology. The CR Electric prototype promises a blend of robust performance and environmentally friendly operation. Honda's entry into the electric dirt bike arena underscores the brand's adaptability and forward-thinking approach, catering to a growing market of eco-conscious riders who demand both quality and sustainability.
+
+In addition to KTM and Honda, several other brands are making notable contributions to the electric dirt bike sector. Brands like Zero Motorcycles and Alta Motors have pushed the boundaries with their advanced electric models. Zero's FX model, for instance, offers impressive range and power, making it a popular choice among off-road enthusiasts. Alta Motors, though now defunct, set a high standard with its Redshift series, which was lauded for its excellent performance and innovative design. These companies have played a crucial role in shaping the landscape of electric dirt biking, demonstrating the potential of electric power in extreme sports.
+
+The shift towards electric dirt bikes is driven by several factors, including environmental concerns, noise regulations, and the advancements in battery technology. Riders are increasingly drawn to the reduced maintenance and operational costs associated with electric bikes, as well as their lower environmental impact. As battery technology continues to improve, offering longer ranges and shorter charging times, the appeal of electric dirt bikes is set to grow. Brands like KTM and Honda are leading this evolution, showcasing that electric power can deliver the thrill and performance traditionally associated with dirt biking, while also paving the way for a more sustainable future in motorsports.
+
+<br>    
+</details>
 
 #
 
