@@ -222,10 +222,10 @@ Ergonomics and comfort are also essential in electric bicycle design. Designers 
 
 <br>    
 </details>
-<details><summary>Electric Bicycle Design</summary>
+<details><summary>Public Transit Taxi Services</summary>
 <br>
 
-![Go Transit Taxi Service](https://github.com/sourceduty/Vehicle_Design/assets/123030236/ae711908-f70b-462b-9e6c-1952ed95f336)
+![GO Transit Taxi Service](https://github.com/sourceduty/Vehicle_Design/assets/123030236/ae711908-f70b-462b-9e6c-1952ed95f336)
 
 Public transit taxi services play a crucial role in urban transportation networks by providing a flexible and convenient alternative to traditional public transit options like buses and trains. These services typically operate on-demand, allowing passengers to request a ride via phone calls, mobile apps, or at designated taxi stands. This flexibility makes them particularly useful for areas with less frequent public transit coverage, ensuring that all city areas are accessible. Public transit taxis can also help bridge the "last mile" gap, connecting passengers from major transit hubs to their final destinations.
 
