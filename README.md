@@ -207,6 +207,21 @@ In terms of practicality, the quad-tracked dirt bike is built to withstand harsh
 
 <br>    
 </details>
+<details><summary>Electric Bicycle Design</summary>
+<br>
+
+![Ontario Parks Bike Concept](https://github.com/sourceduty/Vehicle_Design/assets/123030236/73af365c-0d6e-4c92-8864-afa5c2a0c80a)
+
+Electric bicycle design combines engineering, ergonomics, and aesthetics to create a mode of transportation that is both efficient and appealing. The core component of an electric bicycle is its electric motor, which can be mounted in various locations such as the front wheel hub, rear wheel hub, or centrally on the frame. The choice of motor location affects the bicycle's handling and performance. Hub motors are simpler and more discreet but can make the bike feel heavier on the wheel, while mid-drive motors offer better weight distribution and leverage the bike's gears for improved efficiency on varied terrains.
+
+Battery placement is another critical aspect of electric bicycle design. Designers must balance the need for sufficient battery capacity with the bicycle's weight and aesthetics. Batteries are often integrated into the frame or mounted on the downtube, ensuring a low center of gravity and maintaining the bike's sleek appearance. The range and power of the battery depend on its capacity, measured in watt-hours (Wh), with higher capacities offering longer ranges but also adding weight. Innovations in battery technology are continuously pushing the boundaries of what is possible, making electric bicycles lighter and more efficient.
+
+The user interface and control systems of electric bicycles are designed for ease of use and safety. Modern electric bicycles often feature LCD screens that display crucial information such as speed, battery level, and range. These interfaces can be integrated into the handlebars for easy access while riding. Additionally, control systems allow riders to select different levels of motor assistance, tailoring the riding experience to their needs and preferences. Advanced designs may include smartphone connectivity, providing features like GPS navigation, ride statistics, and remote diagnostics.
+
+Ergonomics and comfort are also essential in electric bicycle design. Designers must ensure that the bicycle is comfortable to ride for extended periods, which involves careful consideration of frame geometry, saddle design, and handlebar positioning. Adjustable components, such as seat posts and handlebars, allow riders to customize their fit, enhancing comfort and reducing fatigue. Suspension systems, particularly on mountain e-bikes, further improve ride quality by absorbing shocks and vibrations from rough terrain. Ultimately, successful electric bicycle design harmonizes technology, functionality, and comfort to create a seamless and enjoyable riding experience.
+
+<br>    
+</details>
 
 #
 
