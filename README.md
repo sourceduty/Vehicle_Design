@@ -237,6 +237,19 @@ The growth of public transit taxi services has been facilitated by advancements 
 
 <br>    
 </details>
+<details><summary>Wheel Well Fender Skirts</summary>
+<br>
+
+![Wheel Skirts](https://github.com/sourceduty/Vehicle_Design/assets/123030236/e3f99c3f-9da2-4fcc-ba2a-74e0dc7ad513)
+
+Wheel well fender skirts, also known simply as fender skirts, are aerodynamic devices used to cover the upper portions of a vehicle's wheel wells. Their primary function is to improve a vehicle's aerodynamics by reducing air drag around the wheels, thereby enhancing fuel efficiency and overall performance. These skirts create a smoother surface along the sides of the vehicle, which helps to streamline airflow and reduce turbulence. Historically, fender skirts have been popular in various automotive designs, particularly in the mid-20th century, when the emphasis on sleek, flowing lines was paramount in car aesthetics.
+
+The design and materials used for fender skirts have evolved over the years. Initially, they were often made of metal and integrated into the vehicle's body, contributing to the luxurious and sophisticated appearance of classic cars. Modern versions can be made from lighter materials like fiberglass or plastic, making them easier to install and more affordable. Additionally, some contemporary car models feature retractable fender skirts, allowing drivers to enjoy the benefits of improved aerodynamics without permanently altering the vehicle's appearance. This innovation provides flexibility and enhances the practicality of fender skirts in everyday use.
+
+Despite their benefits, fender skirts are not universally popular and are sometimes seen as a stylistic choice rather than a functional necessity. In recent times, their usage has declined as automotive design trends have shifted towards other aerodynamic improvements, such as streamlined body shapes and underbody panels. However, fender skirts remain a beloved feature among classic car enthusiasts and custom car builders who appreciate their vintage charm and the unique aesthetic they offer. The resurgence of interest in retro and custom vehicles ensures that fender skirts continue to have a place in the world of automotive design, blending functionality with a touch of nostalgia.
+
+<br>    
+</details>
 
 #
 
