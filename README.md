@@ -265,7 +265,7 @@ The shift towards electric dirt bikes is driven by several factors, including en
 
 <br>    
 </details>
-<details><summary>Compact and Crossover SUV Design</summary>
+<details><summary>Compact and Crossover SUVs</summary>
 <br>
   
 ![Jeep](https://github.com/sourceduty/Vehicle_Design/assets/123030236/ef1d7025-d388-4ca9-954a-9432b0514b29)
