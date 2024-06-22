@@ -302,6 +302,8 @@ The versatility of compact and crossover SUVs extends to their performance capab
 [EV Charging](https://github.com/sourceduty/EV_Charging)
 <br>
 [Car Analyst](https://chat.openai.com/g/g-PFjbg13oy-car-analyst)
+<br>
+[EV](https://github.com/sourceduty/EV)
 
 #
 
