@@ -283,7 +283,7 @@ The versatility of compact and crossover SUVs extends to their performance capab
 <details><summary>Farm Tractor Design</summary>
 <br>
 
-![Farm Hay Pulling Tractor](https://github.com/sourceduty/Vehicle_Design/assets/123030236/d2ff2da6-1fa8-4d66-b522-57b8a34acb56)
+![Farm Hay Pulling Tractor](https://github.com/sourceduty/Vehicle_Design/assets/123030236/6b9ccbe9-240c-410f-b5a7-1a7c32dc4ea1)
 
 ractor design has evolved significantly since the inception of the first mechanical plowing devices, responding to the diverse needs of modern agriculture and engineering advancements. Initially, tractors were relatively simple machines, focusing primarily on replacing animal labor. Early designs were cumbersome and limited in power, but they laid the foundation for the more sophisticated models we see today. These early tractors were often powered by steam engines, and their primary function was to pull plows and other agricultural implements, significantly increasing farming efficiency.
 
