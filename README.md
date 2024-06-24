@@ -348,5 +348,11 @@ Sustainability has become a driving force in the latest tractor designs. With in
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
+#
+
+> Alex: *"I'm a great vehicle concept designer even though I really don't like vehicles."*
+
+> *"I don't have a favorite vehicle or vehicle type."*
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
