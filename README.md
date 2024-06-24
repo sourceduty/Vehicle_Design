@@ -341,6 +341,8 @@ Sustainability has become a driving force in the latest tractor designs. With in
 [EV](https://github.com/sourceduty/EV)
 <br>
 [Trains](https://github.com/sourceduty/Trains)
+<br>
+[Shoreline Trimmer](https://github.com/sourceduty/Shoreline_Trimmer)
 
 #
 
