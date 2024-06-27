@@ -131,7 +131,7 @@ Experimental vehicle design pushes the boundaries of innovation and imagination,
 <details><summary>Pickup Truck Design</summary>
 <br>
 
-![Ford Streetsweeper Truck](https://github.com/sourceduty/Vehicle_Design/assets/123030236/1b15aa12-6e89-45c8-a5c5-1afc3fb7b548)
+![Truck](https://github.com/sourceduty/Vehicle_Design/assets/123030236/8d6dbc89-c059-4685-a8c6-87a13b573820)
 
 Pickup truck design has evolved significantly over the decades, reflecting changing consumer demands, technological advancements, and aesthetic trends. Early pickup trucks were utilitarian workhorses, designed primarily for durability and functionality. They featured simple, boxy shapes with minimal ornamentation, emphasizing their ability to carry heavy loads and navigate rough terrains. These trucks were built with robust frames, high ground clearance, and powerful engines to ensure they could handle the toughest tasks. Over time, however, as pickup trucks gained popularity beyond just commercial use, their design began to incorporate more elements of comfort and style.
 
@@ -275,6 +275,24 @@ Sustainability has become a driving force in the latest tractor designs. With in
 
 #
 ### Vehicle Design Concepts
+
+<details><summary>Ford Streetsweeper Truck</summary>
+<br>
+
+![Ford Streetsweeper Truck](https://github.com/sourceduty/Vehicle_Design/assets/123030236/1b15aa12-6e89-45c8-a5c5-1afc3fb7b548)
+
+The Ford Streetsweeper Truck is a unique blend of robust utility and innovative design, perfectly suited for modern urban environments. Built on the solid foundation of the Ford F-150 platform, this vehicle combines the ruggedness of a traditional pickup truck with the advanced functionalities of a high-efficiency street sweeper. The truck's body is reinforced for durability, ensuring it can handle the toughest cleaning jobs while maintaining the reliability Ford is known for. Its imposing presence is not just for show; it’s designed to tackle a variety of terrains and weather conditions, making it a versatile tool for city maintenance.
+
+A standout feature of the Ford Streetsweeper Truck is its advanced cleaning system. Equipped with industrial-grade brushes and high-suction vacuum hoses, the truck is capable of removing even the most stubborn debris from city streets. The front-mounted sweeping apparatus is complemented by side brushes that can extend to clean curbs and gutters, ensuring a thorough cleaning. This system is powered by a robust auxiliary engine that operates independently of the truck's primary engine, allowing for continuous operation without compromising the vehicle’s driving performance.
+
+The technological advancements in the Ford Streetsweeper Truck are not limited to its cleaning capabilities. The truck is equipped with a suite of smart sensors and cameras that provide real-time data to the operator, enhancing precision and efficiency. These sensors can detect obstacles and adjust the sweeping mechanism accordingly, preventing damage to the truck and surrounding infrastructure. Additionally, the onboard computer system allows for the scheduling of cleaning routes, optimizing the truck’s operation time and fuel efficiency. This integration of technology ensures that the Ford Streetsweeper Truck is not only effective but also economical in the long run.
+
+Inside the cab, the Ford Streetsweeper Truck offers a comfortable and ergonomic workspace for the operator. The interior is designed with high-quality materials and features advanced infotainment systems, making long shifts more manageable. The driver’s seat is adjustable with multiple settings to reduce fatigue, while the control panel for the sweeping apparatus is intuitively laid out for easy access. This attention to detail in the cab's design reflects Ford’s commitment to operator safety and comfort, recognizing that a well-rested operator is essential for optimal performance.
+
+In summary, the Ford Streetsweeper Truck is a remarkable fusion of traditional truck durability and modern cleaning technology. Its robust construction, advanced sweeping systems, and smart technology make it an indispensable asset for urban maintenance teams. The thoughtful design of both its exterior and interior ensures that it performs efficiently while providing a comfortable working environment for its operator. This truck represents a significant advancement in municipal service vehicles, setting a new standard for street cleaning equipment. As cities continue to grow and demand higher standards of cleanliness, the Ford Streetsweeper Truck is well-positioned to meet these challenges head-on.
+
+<br>    
+</details>
 
 <details><summary>Public Transit Taxi Services</summary>
 <br>
