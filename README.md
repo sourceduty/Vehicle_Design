@@ -156,19 +156,6 @@ Ergonomics and rider comfort are critical considerations in snowmobile design. M
 
 <br>    
 </details>
-<details><summary>Stainless Sphere Wheels</summary>
-<br>
-
-![Dope Dodge Charger Concept](https://github.com/sourceduty/Vehicle_Design/assets/123030236/9c90fbcb-da06-4701-9a07-6bddc2d9bb1b)
-
-Stainless steel sphere wheels represent a futuristic and radical departure from conventional automotive design. These wheels, with their seamless, reflective surfaces, evoke a sense of innovation and modernity. Unlike traditional tires and rims, stainless steel spheres provide an uninterrupted, glossy finish that can reflect the surrounding environment, creating a visually striking effect. The design not only looks sleek but also suggests advancements in material science and engineering, as the wheels need to be perfectly balanced and engineered to withstand the rigors of driving.
-
-One of the primary advantages of stainless steel sphere wheels is their durability and resistance to corrosion. Stainless steel, known for its robustness and longevity, ensures that these wheels can endure harsh environmental conditions without rusting or deteriorating. This makes them particularly suitable for long-term use and for vehicles exposed to varying weather patterns. Additionally, their smooth, spherical shape reduces the accumulation of dirt and debris, making maintenance easier and ensuring that the wheels retain their polished appearance with minimal effort.
-
-However, the implementation of stainless steel sphere wheels also presents several challenges. The most significant is the need for specialized suspension systems and chassis modifications to accommodate the unique shape and weight distribution of spherical wheels. Traditional steering and braking systems would need to be re-engineered to ensure safety and performance. Furthermore, the manufacturing process for such wheels would likely be complex and costly, potentially limiting their accessibility. Despite these challenges, the concept of stainless steel sphere wheels pushes the boundaries of automotive design, inspiring future innovations and reimagining the possibilities for the vehicles of tomorrow.
-
-<br>    
-</details>
 <details><summary>Mad Max's 1973 Ford XB Falcon GT Coupe</summary>
 <br>
 
@@ -208,21 +195,6 @@ Furthermore, the flexibility of custom machine design ensures that machines can 
 
 <br>    
 </details>
-<details><summary>Quad-Tracked Dirt Bike Concept</summary>
-<br>
-
-![Quad Tracked Dirt Bike](https://github.com/sourceduty/Vehicle_Design/assets/123030236/0789b4d4-373a-49d3-b482-c57272b34733)
-
-The quad-tracked dirt bike represents a groundbreaking innovation in off-road vehicle design, merging the agility of traditional dirt bikes with the stability and traction of tracked vehicles. This hybrid design incorporates four independent track systems, replacing the conventional two-wheel configuration. Each track is engineered to provide superior grip and maneuverability on challenging terrains such as mud, sand, and snow. The broader surface area of the tracks distributes the bike's weight more evenly, reducing the likelihood of sinking or getting stuck, which is a common issue with wheeled dirt bikes.
-
-One of the primary advantages of this quad-tracked design is its enhanced stability. Traditional dirt bikes often struggle with balance and control on uneven or slippery surfaces. In contrast, the quad-tracked system ensures a more stable ride by maintaining constant contact with the ground. This is particularly beneficial for extreme sports enthusiasts and professionals who tackle rough and unpredictable environments. Additionally, the independent suspension system for each track allows for better shock absorption, leading to a smoother ride even at high speeds over rugged terrain.
-
-The design also focuses on maintaining the agility and speed that dirt bike riders expect. The tracks are designed to be lightweight and low-profile, minimizing any additional drag that could slow down the bike. The powerful engine, combined with the advanced track system, allows the quad-tracked dirt bike to accelerate quickly and maintain high speeds. Furthermore, the bike's steering mechanism has been adapted to work seamlessly with the tracks, ensuring that riders can navigate sharp turns and obstacles with precision.
-
-In terms of practicality, the quad-tracked dirt bike is built to withstand harsh conditions and requires minimal maintenance compared to traditional bikes. The tracks are made from durable materials that resist wear and tear, and the enclosed design protects the internal components from dirt and debris. This makes the quad-tracked dirt bike a reliable choice for off-road adventurers who demand performance and dependability. Overall, this innovative design represents a significant leap forward in dirt bike technology, offering riders a versatile and robust vehicle capable of tackling the toughest terrains with ease.
-
-<br>    
-</details>
 <details><summary>Electric Bicycle Design</summary>
 <br>
 
@@ -235,21 +207,6 @@ Battery placement is another critical aspect of electric bicycle design. Designe
 The user interface and control systems of electric bicycles are designed for ease of use and safety. Modern electric bicycles often feature LCD screens that display crucial information such as speed, battery level, and range. These interfaces can be integrated into the handlebars for easy access while riding. Additionally, control systems allow riders to select different levels of motor assistance, tailoring the riding experience to their needs and preferences. Advanced designs may include smartphone connectivity, providing features like GPS navigation, ride statistics, and remote diagnostics.
 
 Ergonomics and comfort are also essential in electric bicycle design. Designers must ensure that the bicycle is comfortable to ride for extended periods, which involves careful consideration of frame geometry, saddle design, and handlebar positioning. Adjustable components, such as seat posts and handlebars, allow riders to customize their fit, enhancing comfort and reducing fatigue. Suspension systems, particularly on mountain e-bikes, further improve ride quality by absorbing shocks and vibrations from rough terrain. Ultimately, successful electric bicycle design harmonizes technology, functionality, and comfort to create a seamless and enjoyable riding experience.
-
-<br>    
-</details>
-<details><summary>Public Transit Taxi Services</summary>
-<br>
-
-![GO Transit Taxi Service](https://github.com/sourceduty/Vehicle_Design/assets/123030236/ae711908-f70b-462b-9e6c-1952ed95f336)
-
-Public transit taxi services play a crucial role in urban transportation networks by providing a flexible and convenient alternative to traditional public transit options like buses and trains. These services typically operate on-demand, allowing passengers to request a ride via phone calls, mobile apps, or at designated taxi stands. This flexibility makes them particularly useful for areas with less frequent public transit coverage, ensuring that all city areas are accessible. Public transit taxis can also help bridge the "last mile" gap, connecting passengers from major transit hubs to their final destinations.
-
-In many cities, public transit taxi services are integrated into the broader public transportation system, offering a seamless travel experience for users. For instance, passengers might be able to use the same transit cards or mobile payment systems for taxis as they do for buses and trains. This integration can simplify the process of transferring between different modes of transport, making the overall public transit system more user-friendly and efficient. Additionally, public transit taxi services can be coordinated with other transit schedules to minimize wait times and improve service reliability.
-
-Public transit taxi services also contribute to reducing traffic congestion and environmental impact. By providing a shared transportation option, they encourage people to leave their private cars at home, leading to fewer vehicles on the road. This can result in reduced traffic congestion, lower greenhouse gas emissions, and improved air quality in urban areas. Furthermore, many public transit taxi services are increasingly adopting electric or hybrid vehicles, further minimizing their environmental footprint and supporting sustainable urban mobility initiatives.
-
-The growth of public transit taxi services has been facilitated by advancements in technology, particularly the widespread use of smartphones and GPS. Mobile apps have revolutionized how passengers interact with taxi services, offering features like real-time tracking, fare estimation, and electronic payment options. These technological innovations have made public transit taxi services more accessible and user-friendly, catering to the needs of modern urban commuters. As cities continue to evolve and expand, public transit taxi services will likely play an increasingly important role in ensuring efficient, equitable, and sustainable urban transportation systems.
 
 <br>    
 </details>
@@ -312,6 +269,68 @@ Ergonomics and safety have also become critical aspects of tractor design. Moder
 The versatility of modern tractors is another key aspect of their design evolution. Tractors are now designed to accommodate a wide range of attachments and implements, making them useful for various agricultural tasks beyond plowing, such as planting, harvesting, and even landscaping. Quick-attach systems and hydraulic controls allow for easy switching between different tools, increasing the utility and efficiency of the tractor. This versatility extends to different scales of farming operations, from small family farms to large industrial agricultural enterprises.
 
 Sustainability has become a driving force in the latest tractor designs. With increasing awareness of environmental impacts, manufacturers are focusing on reducing emissions and improving fuel efficiency. Hybrid and fully electric tractors are emerging as viable alternatives to traditional diesel-powered models, offering reduced carbon footprints and operational costs. Additionally, advancements in materials science have led to the use of lighter, more durable materials in tractor construction, enhancing their longevity and reducing the environmental impact of manufacturing and disposal. As technology continues to advance, tractor design will undoubtedly keep evolving, addressing the ever-changing needs of the agricultural industry and contributing to more sustainable farming practices.
+
+<br>    
+</details>
+
+#
+### Vehicle Design Concepts
+
+<details><summary>Public Transit Taxi Services</summary>
+<br>
+
+![GO Transit Taxi Service](https://github.com/sourceduty/Vehicle_Design/assets/123030236/ae711908-f70b-462b-9e6c-1952ed95f336)
+
+Public transit taxi services play a crucial role in urban transportation networks by providing a flexible and convenient alternative to traditional public transit options like buses and trains. These services typically operate on-demand, allowing passengers to request a ride via phone calls, mobile apps, or at designated taxi stands. This flexibility makes them particularly useful for areas with less frequent public transit coverage, ensuring that all city areas are accessible. Public transit taxis can also help bridge the "last mile" gap, connecting passengers from major transit hubs to their final destinations.
+
+In many cities, public transit taxi services are integrated into the broader public transportation system, offering a seamless travel experience for users. For instance, passengers might be able to use the same transit cards or mobile payment systems for taxis as they do for buses and trains. This integration can simplify the process of transferring between different modes of transport, making the overall public transit system more user-friendly and efficient. Additionally, public transit taxi services can be coordinated with other transit schedules to minimize wait times and improve service reliability.
+
+Public transit taxi services also contribute to reducing traffic congestion and environmental impact. By providing a shared transportation option, they encourage people to leave their private cars at home, leading to fewer vehicles on the road. This can result in reduced traffic congestion, lower greenhouse gas emissions, and improved air quality in urban areas. Furthermore, many public transit taxi services are increasingly adopting electric or hybrid vehicles, further minimizing their environmental footprint and supporting sustainable urban mobility initiatives.
+
+The growth of public transit taxi services has been facilitated by advancements in technology, particularly the widespread use of smartphones and GPS. Mobile apps have revolutionized how passengers interact with taxi services, offering features like real-time tracking, fare estimation, and electronic payment options. These technological innovations have made public transit taxi services more accessible and user-friendly, catering to the needs of modern urban commuters. As cities continue to evolve and expand, public transit taxi services will likely play an increasingly important role in ensuring efficient, equitable, and sustainable urban transportation systems.
+
+<br>    
+</details>
+<details><summary>Quad-Tracked Dirt Bike Concept</summary>
+<br>
+
+![Quad Tracked Dirt Bike](https://github.com/sourceduty/Vehicle_Design/assets/123030236/0789b4d4-373a-49d3-b482-c57272b34733)
+
+The quad-tracked dirt bike represents a groundbreaking innovation in off-road vehicle design, merging the agility of traditional dirt bikes with the stability and traction of tracked vehicles. This hybrid design incorporates four independent track systems, replacing the conventional two-wheel configuration. Each track is engineered to provide superior grip and maneuverability on challenging terrains such as mud, sand, and snow. The broader surface area of the tracks distributes the bike's weight more evenly, reducing the likelihood of sinking or getting stuck, which is a common issue with wheeled dirt bikes.
+
+One of the primary advantages of this quad-tracked design is its enhanced stability. Traditional dirt bikes often struggle with balance and control on uneven or slippery surfaces. In contrast, the quad-tracked system ensures a more stable ride by maintaining constant contact with the ground. This is particularly beneficial for extreme sports enthusiasts and professionals who tackle rough and unpredictable environments. Additionally, the independent suspension system for each track allows for better shock absorption, leading to a smoother ride even at high speeds over rugged terrain.
+
+The design also focuses on maintaining the agility and speed that dirt bike riders expect. The tracks are designed to be lightweight and low-profile, minimizing any additional drag that could slow down the bike. The powerful engine, combined with the advanced track system, allows the quad-tracked dirt bike to accelerate quickly and maintain high speeds. Furthermore, the bike's steering mechanism has been adapted to work seamlessly with the tracks, ensuring that riders can navigate sharp turns and obstacles with precision.
+
+In terms of practicality, the quad-tracked dirt bike is built to withstand harsh conditions and requires minimal maintenance compared to traditional bikes. The tracks are made from durable materials that resist wear and tear, and the enclosed design protects the internal components from dirt and debris. This makes the quad-tracked dirt bike a reliable choice for off-road adventurers who demand performance and dependability. Overall, this innovative design represents a significant leap forward in dirt bike technology, offering riders a versatile and robust vehicle capable of tackling the toughest terrains with ease.
+
+<br>    
+</details>
+<details><summary>Stainless Sphere Wheels</summary>
+<br>
+
+![Dope Dodge Charger Concept](https://github.com/sourceduty/Vehicle_Design/assets/123030236/9c90fbcb-da06-4701-9a07-6bddc2d9bb1b)
+
+Stainless steel sphere wheels represent a futuristic and radical departure from conventional automotive design. These wheels, with their seamless, reflective surfaces, evoke a sense of innovation and modernity. Unlike traditional tires and rims, stainless steel spheres provide an uninterrupted, glossy finish that can reflect the surrounding environment, creating a visually striking effect. The design not only looks sleek but also suggests advancements in material science and engineering, as the wheels need to be perfectly balanced and engineered to withstand the rigors of driving.
+
+One of the primary advantages of stainless steel sphere wheels is their durability and resistance to corrosion. Stainless steel, known for its robustness and longevity, ensures that these wheels can endure harsh environmental conditions without rusting or deteriorating. This makes them particularly suitable for long-term use and for vehicles exposed to varying weather patterns. Additionally, their smooth, spherical shape reduces the accumulation of dirt and debris, making maintenance easier and ensuring that the wheels retain their polished appearance with minimal effort.
+
+However, the implementation of stainless steel sphere wheels also presents several challenges. The most significant is the need for specialized suspension systems and chassis modifications to accommodate the unique shape and weight distribution of spherical wheels. Traditional steering and braking systems would need to be re-engineered to ensure safety and performance. Furthermore, the manufacturing process for such wheels would likely be complex and costly, potentially limiting their accessibility. Despite these challenges, the concept of stainless steel sphere wheels pushes the boundaries of automotive design, inspiring future innovations and reimagining the possibilities for the vehicles of tomorrow.
+
+<br>    
+</details>
+<details><summary>Luxury Sphere Scooter</summary>
+<br>
+
+![Luxury Sphere Scooter](https://github.com/sourceduty/Vehicle_Design/assets/123030236/efa80561-e7f8-4b43-97b7-513fa5088e77)
+
+The Luxury Sphere Scooter design represents a leap into the future of personal transportation. Encased in a transparent, spherical pod, the vehicle allows the rider an unobstructed 360-degree view of their surroundings, combining aesthetic appeal with functional safety. The pod itself is mounted on four wheels, ensuring stability and a smooth ride. This design not only captures attention with its unique appearance but also promises an innovative approach to mobility, where comfort, visibility, and style are seamlessly integrated.
+
+Inside the pod, the rider sits on a plush, ergonomically designed chair that offers maximum comfort during travel. The chair is adjustable and rotates, allowing for easy interaction with the environment or conversation with passengers. In front of the rider is a sleek, minimalist control panel and a small table, perfect for placing personal items or enjoying a drink, as seen in the concept image. This setup suggests that the Luxury Sphere Scooter is not just a mode of transport but a mobile lounge, ideal for those who value both convenience and luxury.
+
+The overall aesthetic of the Luxury Sphere Scooter is ultra-modern and sophisticated, appealing to a clientele that appreciates cutting-edge design and innovation. The exterior is made from high-quality, durable materials that ensure longevity and a sleek finish. The vehicle's wheels are designed to provide excellent traction and smooth navigation across various terrains, making it versatile for both urban and suburban environments. Additionally, the sphere's transparent nature not only enhances visibility but also contributes to a sense of openness, reducing the feeling of confinement often associated with traditional vehicles.
+
+Furthermore, the Luxury Sphere Scooter aligns with the growing trend of eco-friendly transportation. Its design suggests the use of electric power, which reduces emissions and promotes sustainability. The combination of luxury, practicality, and environmental consciousness makes this vehicle a potential game-changer in the personal transport market. As cities evolve and the demand for innovative transport solutions increases, the Luxury Sphere Scooter stands out as a visionary concept that could redefine how we move through our urban landscapes.
 
 <br>    
 </details>
