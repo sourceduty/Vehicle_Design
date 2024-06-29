@@ -1,4 +1,4 @@
-![Gullwing Doors Truck Concept](https://github.com/sourceduty/Vehicle_Design/assets/123030236/bab0bf11-ef28-477c-ba2f-696eb8b66d39)
+![Ford Model T Burnout](https://github.com/sourceduty/Vehicle_Design/assets/123030236/47afa5e0-1128-4cd1-afca-0d83b61e5d07)
 
 #
 ### Vehicle Design Culture
