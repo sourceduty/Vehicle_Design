@@ -416,6 +416,21 @@ Overall, the 1989 Chrome Riveted Panel Lowrider Suburban is more than just a car
 
 <br>    
 </details>
+<details><summary>Retro Glass Roof City Bus</summary>
+<br>
+
+![Retro Glass Roof City Bus](https://github.com/sourceduty/Vehicle_Design/assets/123030236/c0a72093-6f81-408e-9107-d58532cd8cce)
+
+This stunning Retro Glass Roof City Bus concept merges the charm of vintage design with the sophistication of modern engineering. The bus exudes a nostalgic vibe reminiscent of the 1950s, with its round, friendly contours and vibrant color scheme. The front grille and headlights draw inspiration from classic car designs, giving it a distinctive, cheerful face. The two-tone paint job, primarily in teal and orange, is accentuated with elegant chrome detailing, enhancing its retro appeal. Numbered "56" on both the license plate and side panel, this bus looks like it could have been plucked straight from a vintage postcard.
+
+One of the most striking features of this concept bus is its expansive glass roof, which stretches from the front to the rear. This panoramic roof design allows passengers to enjoy an unobstructed view of the sky and surrounding cityscape, making every journey a scenic adventure. The interior, visible through the large windows, appears spacious and inviting, with comfortable seating that mirrors the exterior's retro aesthetic. The curved glass panels not only provide a stylish touch but also ensure that the bus is filled with natural light, creating an airy and pleasant atmosphere inside.
+
+The attention to detail in this design extends to the bus's functionality and user experience. The wide, double-door entry and low floor height ensure easy access for all passengers, including those with mobility challenges. The bus's streamlined shape and smooth lines suggest an emphasis on aerodynamic efficiency, which, combined with modern engineering, likely contributes to improved fuel efficiency and a smoother ride. The side mirrors and turn signals are thoughtfully integrated into the design, maintaining the vehicle's sleek and cohesive look while ensuring safety and practicality.
+
+Incorporating both nostalgia and innovation, this Retro Glass Roof City Bus concept represents a harmonious blend of the past and future. It appeals to those who appreciate classic aesthetics while valuing contemporary amenities and sustainability. Whether used for city tours or regular transit routes, this bus promises to turn heads and enhance the travel experience for all its passengers. By marrying timeless design elements with modern technology, this concept bus stands as a testament to the enduring appeal of retro-futuristic design.
+
+<br>    
+</details>
 
 #
 
