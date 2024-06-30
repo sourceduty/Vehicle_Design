@@ -272,6 +272,21 @@ Sustainability has become a driving force in the latest tractor designs. With in
 
 <br>    
 </details>
+<details><summary>Drifting Car Stunk Idea</summary>
+<br>
+
+![Drift Car Pick Up](https://github.com/sourceduty/Vehicle_Design/assets/123030236/05184335-cbd2-482e-bf9f-aa9fa5a6a092)
+
+Picking up a person using a drifting car involves a series of precise maneuvers and considerations to ensure safety and practicality. The car must be able to approach the person at an angle and speed that allows for the opening of a door and the swift entrance of the person. This requires a highly skilled driver who can control the drift accurately, maintaining a steady trajectory while managing the speed to avoid abrupt or dangerous movements. The maneuver typically involves initiating a controlled drift towards the person, aligning the car in such a way that one of the doors can be opened without compromising the stability of the car or endangering the person.
+
+The type of door used in this scenario significantly impacts the feasibility and safety of the pick-up. Traditional car doors, which open outward, can pose a risk as they might be difficult to manage during a drift due to the outward force and potential for collision. Suicide doors, which are hinged at the rear and open backward, might offer a better option because they can provide a wider entry space and are easier to manage when the car is moving. The rear-hinged design allows the door to open against the direction of motion, reducing the risk of the door closing unexpectedly or becoming an obstacle.
+
+Sliding doors, often found on vans and minivans, could be the most practical and safest option for a drifting pick-up maneuver. These doors slide horizontally along the side of the vehicle, which minimizes the risk of them interfering with the drifting motion or the person trying to enter. Sliding doors provide a large, unobstructed entryway and are less likely to be affected by the car's motion. Additionally, they can be easier to control remotely, allowing for precise timing in opening and closing during the pick-up.
+
+Overall, the maneuver requires a combination of skilled driving and the right door design to ensure safety and effectiveness. Suicide doors offer some advantages, but sliding doors are likely the best option due to their stability and ease of use during a dynamic and high-risk maneuver like drifting.
+
+<br>    
+</details>
 
 #
 ### Vehicle Design Concepts
