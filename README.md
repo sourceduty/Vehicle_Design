@@ -272,7 +272,7 @@ Sustainability has become a driving force in the latest tractor designs. With in
 
 <br>    
 </details>
-<details><summary>Drifting Car Stunk Idea</summary>
+<details><summary>Drifting Car Stunt Idea</summary>
 <br>
 
 ![Drift Car Pick Up](https://github.com/sourceduty/Vehicle_Design/assets/123030236/05184335-cbd2-482e-bf9f-aa9fa5a6a092)
