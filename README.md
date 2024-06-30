@@ -285,6 +285,8 @@ Sliding doors, often found on vans and minivans, could be the most practical and
 
 Overall, the maneuver requires a combination of skilled driving and the right door design to ensure safety and effectiveness. Suicide doors offer some advantages, but sliding doors are likely the best option due to their stability and ease of use during a dynamic and high-risk maneuver like drifting.
 
+#
+
 > Alex: *"VRRROOOOOM-BRRRRR!"*
 
 <br>    
