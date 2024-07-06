@@ -292,7 +292,7 @@ Overall, the maneuver requires a combination of skilled driving and the right do
 <details><summary>Transforming Tank Track Wheels</summary>
 <br>
 
-![Transforming Tank Track Wheels](https://github.com/sourceduty/Vehicle_Design/assets/123030236/93f457eb-16ea-43c2-bfca-4c81c2b95f96)
+![Transforming Tank Track Wheels](https://github.com/sourceduty/Vehicle_Design/assets/123030236/3aa05217-b128-491c-86e3-78adcbe6ff3e)
 
 The military transforming tank track wheels represent a significant advancement in vehicular mobility and adaptability for modern armored vehicles. Unlike traditional tank tracks that are rigid and continuous, these innovative wheels can dynamically switch between a conventional tire mode and a tracked mode. This transformation allows the vehicle to adapt to a wide range of terrains and operational requirements, enhancing its versatility on the battlefield. The mechanism behind this transformation involves a complex system of retractable segments and robust hinges, which seamlessly convert the circular tire into a continuous track system and vice versa.
 
