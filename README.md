@@ -319,6 +319,21 @@ There are ethical considerations associated with this practice. Some argue that 
 
 <br>    
 </details>
+<details><summary>Emergency Brake Light Hack</summary>
+<br>
+
+![Emergency Brake Light Hack](https://github.com/sourceduty/Vehicle_Design/assets/123030236/2dd55f4a-42e7-4cf5-93d9-7ca0c9eeb532)
+
+To get the headlights to stay off when the vehicle is parked and the car is off, you should turn the light switch to the off position, then engage the emergency brake. This process ensures the headlights do not remain on and drain the battery while the car is stationary. This procedure can be particularly useful in vehicles where the lights are set to automatic mode and might otherwise stay on when the car is turned off.
+
+In some vehicles, such as the Toyota RAV4, there's a feature that turns off the headlights automatically when the car is parked and the emergency brake is engaged. This feature is particularly useful for preventing the car battery from draining while the vehicle is stationary. To utilize this function effectively, the driver needs to ensure that the light switch is turned to the "off" position before engaging the emergency brake. This action signals the vehicle's system to turn off the headlights completely.
+
+The process begins by manually turning the light switch to the off position. In vehicles with automatic headlights, this step ensures that the lights won't stay on when the vehicle is not in use. Following this, engaging the emergency brake activates the parking brake system, which, in conjunction with the headlight switch being off, results in the headlights turning off. This integrated system helps maintain the battery life and ensures that the vehicle is not illuminated unnecessarily when parked.
+
+This feature can be particularly advantageous in preventing the common issue of returning to a vehicle with a drained battery due to lights being left on. It's a thoughtful design element that enhances the convenience and efficiency of vehicle operation. For detailed instructions and discussions on this topic, users can refer to forums and user manuals specific to their vehicle model.
+
+<br>    
+</details>
 
 #
 ### Vehicle Design Concepts
