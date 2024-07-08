@@ -334,6 +334,19 @@ This feature can be particularly advantageous in preventing the common issue of 
 
 <br>    
 </details>
+<details><summary>Aston Martin DBS GT Zagato</summary>
+<br>
+
+![Aston Martin DBS GT Zagato](https://github.com/sourceduty/Vehicle_Design/assets/123030236/eb02ec11-e22a-465b-a6f8-9ac633ae7aa8)
+
+The Aston Martin DBS GT Zagato stands out in the automotive world with its revolutionary, dynamic grille. Unlike traditional grilles, the DBS GT Zagato's grille is composed of 108 intricately crafted, diamond-shaped carbon fiber pieces that move in response to the car's ignition. When the engine starts, these pieces open, allowing the engine to "breathe" and creating an impression of the vehicle coming to life. This animated feature not only adds a striking visual element but also plays a crucial role in enhancing the car's performance. The design optimizes airflow to the twin-turbo V12 engine, ensuring it operates efficiently and powerfully.
+
+Comparatively, many high-performance cars have static grilles that, while often stylish, lack the interactive functionality of the DBS GT Zagato's grille. For instance, the Ferrari F8 Tributo and the Lamborghini Aventador feature aggressive, well-designed grilles, but they do not incorporate moving parts that interact with the car’s mechanical processes. The Porsche 911 GT3, another high-end sports car, boasts a grille designed for maximum airflow, yet it remains a fixed component. Even among luxury vehicles, the dynamic nature of the DBS GT Zagato's grille sets it apart, offering a blend of form and function rarely seen in the automotive industry.
+
+The exclusivity of the DBS GT Zagato further elevates its status. It is available only as part of a £6 million two-car set with the DB4 GT Zagato Continuation, and production is limited to just 19 pairs. This limited availability ensures that owning this model is a privilege reserved for a select few, enhancing its allure and desirability. In contrast, other high-end sports cars, while exclusive, are often produced in larger numbers, making the Aston Martin DBS GT Zagato a truly rare gem in the world of luxury automobiles.
+
+<br>    
+</details>
 
 #
 ### Vehicle Design Concepts
