@@ -1,4 +1,4 @@
-![Ford Model T Burnout](https://github.com/sourceduty/Vehicle_Design/assets/123030236/47afa5e0-1128-4cd1-afca-0d83b61e5d07)
+![Retro Luxury Concept Car](https://github.com/sourceduty/Vehicle_Design/assets/123030236/03e3aa99-b6f3-4bdf-96a1-77ce95fc11ce)
 
 #
 ### Vehicle Design Culture
