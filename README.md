@@ -506,6 +506,21 @@ Incorporating both nostalgia and innovation, this Retro Glass Roof City Bus conc
 
 <br>    
 </details>
+<details><summary>Car Door Tire Iron</summary>
+<br>
+
+![Car Door Tire Iron](https://github.com/sourceduty/Vehicle_Design/assets/123030236/e4ed7ba7-5789-4e5d-9642-b3424f1b84c8)
+
+The car door concept design for tire iron storage is an innovative solution that combines functionality and convenience. This design integrates the tire iron storage directly into the door panel, allowing for easy access in case of an emergency. The tire iron is securely housed within a custom-shaped compartment at the bottom of the door panel, ensuring that it remains in place during driving. This placement is both practical and unobtrusive, making the most of the available space without sacrificing the aesthetic appeal of the car interior.
+
+One of the standout features of this design is its sleek and modern aesthetic. The door panel is adorned with diamond-patterned stitching, providing a luxurious look that complements the high-end feel of the vehicle. The materials used are high-quality, ensuring durability and a premium touch. The integration of the tire iron compartment is done seamlessly, with a perforated section that allows the tool to be both visible and easily accessible. This thoughtful design ensures that the tire iron does not detract from the overall elegance of the door panel.
+
+Functionality is at the forefront of this design. The placement of the tire iron in the door panel makes it easy to reach, eliminating the need to search through the trunk or under seats during a roadside emergency. This accessibility can save valuable time and effort, particularly in stressful situations. Additionally, the compartment is designed to hold the tire iron securely, preventing any rattling or movement while the car is in motion. This ensures that the tool is always where it should be, ready for use when needed.
+
+The integration of tire iron storage into the car door also contributes to the overall safety and ergonomics of the vehicle. By having the tire iron within easy reach, drivers are less likely to struggle with finding the tool in poor lighting or adverse weather conditions. This design also reduces the risk of injury associated with retrieving tools from awkward or hard-to-reach places. Furthermore, the tire iron storage does not interfere with the door's primary functions, such as opening and closing, or the operation of the window controls. This careful consideration of both form and function makes this concept design a valuable addition to any vehicle.
+
+<br>    
+</details>
 
 #
 
