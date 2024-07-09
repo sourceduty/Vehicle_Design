@@ -362,6 +362,21 @@ The inclusion of such a feature highlights Rolls-Royce's dedication to enhancing
 
 <br>    
 </details>
+<details><summary>Rolls-Royce Concept Red Carpet Light</summary>
+<br>
+
+![Rolls-Royce Red Carpet Light](https://github.com/sourceduty/Vehicle_Design/assets/123030236/1cbd79cd-4b0d-4db4-aa6d-e0d8e4b5db89)
+
+The red light built into the door of the Rolls-Royce 103EX Concept car is a distinctive feature that underscores the vehicle's futuristic and luxurious design. This concept car, also known as the Vision Next 100, represents Rolls-Royce's vision of the future of luxury mobility. The inclusion of the red light is not just a stylistic choice but also a reflection of the brand's commitment to innovation and elegance. When the door is opened, the red light creates a dramatic entrance, illuminating the ground beneath and adding to the sense of occasion that accompanies stepping into a Rolls-Royce.
+
+Incorporating a red light into the door of the 103EX serves multiple purposes. Aesthetically, it enhances the car's ultra-modern look, aligning with its sleek lines and advanced design features. The red light contrasts with the vehicle's exterior, drawing attention to the entryway and highlighting the car's sophisticated contours. This illumination adds a layer of visual drama and allure, making the act of entering or exiting the car an experience in itself, akin to stepping onto a red carpet.
+
+From a practical standpoint, the red light enhances safety and visibility for passengers. In low-light conditions, such as nighttime or dimly lit areas, the light illuminates the ground around the door, helping passengers see potential hazards or obstacles. This feature not only prevents trips and falls but also ensures that the car is more visible to other vehicles and pedestrians. The practical benefits of the red light align with Rolls-Royce's commitment to providing a safe and comfortable environment for its passengers.
+
+The inclusion of this red light in the Rolls-Royce 103EX Concept exemplifies the brand's dedication to merging technology with timeless luxury. It showcases how Rolls-Royce envisions the future of automotive design, where even the smallest details contribute to a grander experience. By integrating such thoughtful and innovative features, Rolls-Royce continues to push the boundaries of what is possible in luxury vehicles, ensuring that every journey in the 103EX is not just a drive, but an event to be remembered.
+
+<br>    
+</details>
 
 #
 ### Vehicle Design Concepts
