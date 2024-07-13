@@ -1,4 +1,4 @@
-![Retro Luxury Concept Car](https://github.com/sourceduty/Vehicle_Design/assets/123030236/03e3aa99-b6f3-4bdf-96a1-77ce95fc11ce)
+![Elon Musk Meme](https://github.com/user-attachments/assets/ea962bbc-df76-41cf-b83b-0b87b8261e75)
 
 #
 ### Vehicle Design Culture
