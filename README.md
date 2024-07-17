@@ -585,6 +585,8 @@ The integration of tire iron storage into the car door also contributes to the o
 [Airplane Design](https://github.com/sourceduty/Airplane_Design)
 <br>
 [Onomatopoeia](https://chatgpt.com/g/g-JEHdIpJiN-onomatopoeia)
+<br>
+[Vehicle Rating](https://github.com/sourceduty/Vehicle_Rating)
 
 #
 
