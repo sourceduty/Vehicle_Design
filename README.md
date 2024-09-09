@@ -760,6 +760,10 @@ The inclusion of this red light in the Rolls-Royce 103EX Concept exemplifies the
 </details>
 
 #
+
+![Lebowski](https://github.com/user-attachments/assets/78d2fb82-c793-44b1-9651-e6ddda127e37)
+
+#
 ### Vehicle Design Concepts
 
 <details><summary>Ford Streetsweeper Truck</summary>
