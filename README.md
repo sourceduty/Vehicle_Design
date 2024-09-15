@@ -573,6 +573,17 @@ Beyond its technical and aesthetic features, the Interceptor serves as a powerfu
 
 <br>    
 </details>
+<details><summary>Transport Trucks</summary>
+<br>
+
+![Trucks](https://github.com/user-attachments/assets/efc41117-1305-4742-9a9d-d80548a3c081)
+
+Transport trucks have long been a cornerstone of global logistics, crucial for moving goods across vast distances. Historically, these trucks evolved from early steam-powered vehicles to internal combustion engine models, which became the dominant technology in the 20th century. This evolution was driven by the need for increased efficiency, capacity, and range. Traditional diesel trucks offered substantial improvements in power and durability, leading to widespread adoption in industries ranging from freight to construction.
+
+In recent years, the focus has shifted towards electric transport trucks as part of a broader effort to reduce environmental impact and improve sustainability. The transition to electric trucks represents a significant technological leap, incorporating advancements in battery technology and electric drivetrains. Electric trucks promise to lower emissions, reduce operating costs, and offer quieter operations compared to their diesel counterparts. As infrastructure for electric vehicles continues to expand and battery technology improves, electric trucks are becoming increasingly viable, marking a pivotal step in the evolution of transport trucks towards a greener future.
+
+<br>    
+</details>
 <details><summary>Car Key Fob Range Hack</summary>
 <br>
 
