@@ -56,7 +56,7 @@ These less innovative brands tend to prioritize factors like reliability, afford
 #
 ### EV Innovation
 
-![Reverse Sounds](https://github.com/user-attachments/assets/8002989c-2a6a-4d20-8c7b-719bac142487)
+![Slammed Tesla](https://github.com/user-attachments/assets/cee15c5c-5180-4002-9b80-e76dc1ceab26)
 
 Electric vehicle (EV) innovation is transforming the transportation industry, driven by advancements in battery technology, charging infrastructure, and vehicle efficiency. At the core of this revolution is the development of high-capacity lithium-ion batteries, which have enabled longer ranges and faster charging times, making EVs more practical for everyday use. Researchers are now exploring solid-state batteries, which promise even greater energy density, improved safety, and shorter recharge times, further accelerating the shift away from fossil fuels.
 
