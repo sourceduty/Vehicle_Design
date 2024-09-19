@@ -56,7 +56,7 @@ These less innovative brands tend to prioritize factors like reliability, afford
 #
 ### EV Innovation
 
-![Slammed Tesla](https://github.com/user-attachments/assets/cee15c5c-5180-4002-9b80-e76dc1ceab26)
+![Electric Off-Road Crossover](https://github.com/user-attachments/assets/2e01f4c5-37d5-4235-bc6c-3273778ec884)
 
 Electric vehicle (EV) innovation is transforming the transportation industry, driven by advancements in battery technology, charging infrastructure, and vehicle efficiency. At the core of this revolution is the development of high-capacity lithium-ion batteries, which have enabled longer ranges and faster charging times, making EVs more practical for everyday use. Researchers are now exploring solid-state batteries, which promise even greater energy density, improved safety, and shorter recharge times, further accelerating the shift away from fossil fuels.
 
@@ -806,7 +806,7 @@ The inclusion of this red light in the Rolls-Royce 103EX Concept exemplifies the
 
 #
 
-![Lebowski](https://github.com/user-attachments/assets/78d2fb82-c793-44b1-9651-e6ddda127e37)
+![Off-Road Formula 1 Racecar](https://github.com/user-attachments/assets/a0ddf67c-409d-4a7a-a519-08f71221b754)
 
 #
 ### Vehicle Design Concepts
