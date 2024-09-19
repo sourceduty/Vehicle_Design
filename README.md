@@ -1,4 +1,4 @@
-![Vehicles](https://github.com/user-attachments/assets/3496913a-9bf9-4141-bdb1-3c0bbcab8452)
+![Vehicles](https://github.com/user-attachments/assets/e33674be-75a2-4344-bce3-0dec5a2a6d48)
 
 #
 ### Vehicle Efficiency and Safety
