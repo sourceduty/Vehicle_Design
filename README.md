@@ -1087,6 +1087,10 @@ This integration of a loader bucket onto a pickup truck exemplifies how multipur
 
 #
 
+![Automated Mechanical Parking System](https://github.com/user-attachments/assets/c0473784-5848-4d57-8c84-dd750965e0a4)
+
+#
+
 ![Retro Boogie Van](https://github.com/user-attachments/assets/a88664d5-33dd-4d83-9ed5-ccccf7d038dc)
 
 
