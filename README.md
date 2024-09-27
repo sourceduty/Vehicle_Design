@@ -23,6 +23,36 @@ Overall, the expenses related to safety in road vehicles reflect a balance betwe
 The evolution of car design from 1900 to 2024 is a fascinating journey marked by radical transformations reflecting technological advancements, changing societal needs, and aesthetic trends. In the early 20th century, automobiles were rudimentary machines, often resembling horse-drawn carriages without the horses, with designs focused on basic functionality and the novelty of motorized transport. As the decades progressed, the 1920s and 1930s saw the introduction of more stylized and aerodynamic shapes, influenced by Art Deco and the streamlining movement, aiming for beauty and speed. Post-World War II, the 1950s and 1960s ushered in an era of optimism and prosperity, reflected in car designs with extravagant fins, chrome embellishments, and vibrant colors. The oil crises of the 1970s pivoted the focus towards fuel efficiency, leading to smaller, more economical car designs. The late 20th and early 21st centuries have seen a strong emphasis on safety, environmental concerns, and technology integration, with cars becoming more aerodynamic, incorporating advanced materials and digital technologies. By 2024, car design is heavily influenced by the advent of electric vehicles, autonomous driving technologies, and a renewed focus on sustainability, leading to innovative designs that prioritize efficiency, connectivity, and minimal environmental impact, while still maintaining aesthetic appeal and driving pleasure.
 
 #
+### Cold Starts
+
+![Frozen](https://github.com/user-attachments/assets/3980632e-6fde-4d2f-89a3-0292ea914518)
+
+Diesel engines generally require longer warm-up times compared to gasoline engines, especially in colder conditions. For example, at -20°C (-4°F), a diesel engine may need 15 to 20 minutes to reach optimal operating temperature, while a gasoline engine might take 8 to 12 minutes. As temperatures rise, the warm-up time for both engine types decreases significantly. At 20°C (68°F), diesel engines typically need 2 to 5 minutes, and gasoline engines may only need up to 2 minutes. In warmer conditions, such as 30°C (86°F), diesel engines can be ready in 1 to 3 minutes, and gasoline engines require little to no warm-up time. Electric vehicles (EVs), on the other hand, do not require any warm-up time regardless of ambient temperature, although battery preconditioning may be necessary in extreme cold to maintain optimal performance.
+
+<br>
+
+ Engine Type   | Ambient Temperature | Warm-up Time (Minutes)
+---------------|---------------------|----------------------
+ Diesel        | -20°C (-4°F)        | 15 - 20              
+ Diesel        | -10°C (14°F)        | 10 - 15              
+ Diesel        | 0°C (32°F)          | 5 - 10               
+ Diesel        | 10°C (50°F)         | 3 - 5                
+ Diesel        | 20°C (68°F)         | 2 - 5                
+ Diesel        | 30°C (86°F)         | 1 - 3                
+ Gasoline      | -20°C (-4°F)        | 8 - 12               
+ Gasoline      | -10°C (14°F)        | 5 - 8                
+ Gasoline      | 0°C (32°F)          | 2 - 5                
+ Gasoline      | 10°C (50°F)         | 1 - 3                
+ Gasoline      | 20°C (68°F)         | 0 - 2                
+ Gasoline      | 30°C (86°F)         | 0 - 1                
+ Electric (EV) | -20°C (-4°F)        | 0 (Battery preheat may be required)
+ Electric (EV) | -10°C (14°F)        | 0 (Battery preheat may be required)
+ Electric (EV) | 0°C (32°F)          | 0                    
+ Electric (EV) | 10°C (50°F)         | 0                    
+ Electric (EV) | 20°C (68°F)         | 0                    
+ Electric (EV) | 30°C (86°F)         | 0                    
+
+#
 ### Innovative and Evolutionary Vehicle Design
 
 ![Old and New](https://github.com/sourceduty/Vehicle_Design/assets/123030236/487839bd-caf0-43cb-8806-acb9bb6084cd)
