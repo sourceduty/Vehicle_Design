@@ -1,8 +1,12 @@
 ![Vehicles](https://github.com/user-attachments/assets/e33674be-75a2-4344-bce3-0dec5a2a6d48)
 
 > Classic, luxury, high-performance, heavy-duty and electric vehicle design.
+#
+
+Vehicle design encompasses a broad spectrum of styles and functionalities, ranging from classic models that evoke nostalgia with their timeless aesthetics to luxury vehicles that prioritize comfort, craftsmanship, and premium materials. High-performance vehicles focus on advanced engineering to maximize speed, agility, and handling, while heavy-duty vehicles are designed for resilience and power, built to withstand demanding tasks and rugged environments. In contrast, electric vehicles represent the forefront of innovation, combining sleek, modern designs with energy-efficient technology to reduce emissions and promote sustainability, all while providing a smooth, silent driving experience. Each category reflects a unique balance of form and function, catering to diverse needs and preferences.
 
 #
+### Safety
 
 ![Offroader](https://github.com/user-attachments/assets/6a86168d-58b5-4a67-9d2e-b7290822fe0c)
 
