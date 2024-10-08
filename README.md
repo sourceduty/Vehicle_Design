@@ -3,7 +3,7 @@
 #
 ### Vehicle Efficiency and Safety
 
-![Truck Parking](https://github.com/user-attachments/assets/9570ba43-b836-4312-be0e-799881e46cd3)
+![Offroader](https://github.com/user-attachments/assets/6a86168d-58b5-4a67-9d2e-b7290822fe0c)
 
 The integration of safety features in road vehicles represents a significant expense for manufacturers, which is often passed on to consumers. These costs stem from the development and implementation of advanced technologies like anti-lock braking systems (ABS), electronic stability control (ESC), and collision avoidance systems. Additionally, structural enhancements such as crumple zones and reinforced frames are essential for modern vehicle safety but add to manufacturing costs. Compliance with increasingly stringent safety regulations further drives up expenses, requiring continuous redesigns and extensive testing to meet standards.
 
