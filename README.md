@@ -1137,6 +1137,9 @@ This integration of a loader bucket onto a pickup truck exemplifies how multipur
 
 ![Retro Boogie Van](https://github.com/user-attachments/assets/a88664d5-33dd-4d83-9ed5-ccccf7d038dc)
 
+#
+
+![Point at Head](https://github.com/user-attachments/assets/b6568d1d-874d-42c6-99b4-e75fd373a71e)
 
 #
 
