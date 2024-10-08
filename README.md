@@ -1,7 +1,8 @@
 ![Vehicles](https://github.com/user-attachments/assets/e33674be-75a2-4344-bce3-0dec5a2a6d48)
 
+> Classic, luxury, high-performance, heavy-duty and electric vehicle design.
+
 #
-### Vehicle Efficiency and Safety
 
 ![Offroader](https://github.com/user-attachments/assets/6a86168d-58b5-4a67-9d2e-b7290822fe0c)
 
