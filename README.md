@@ -1124,27 +1124,19 @@ This integration of a loader bucket onto a pickup truck exemplifies how multipur
 [Vehicle Accident Areas](https://github.com/sourceduty/Vehicle_Accident_Areas)
 <br>
 [Airborne Car Deployment](https://github.com/sourceduty/Airborne_Car_Deployment)
+<br>
+[Vehicle Accessory](https://github.com/sourceduty/Vehicle_Accessory)
 
 #
-
 ![GitHub](https://github.com/user-attachments/assets/362fb430-9e54-4555-bf66-d902a30a58dc)
-
 #
-
 ![Automated Mechanical Parking System](https://github.com/user-attachments/assets/c0473784-5848-4d57-8c84-dd750965e0a4)
-
 #
-
 ![Retro Boogie Van](https://github.com/user-attachments/assets/a88664d5-33dd-4d83-9ed5-ccccf7d038dc)
-
 #
-
 ![Point at Head](https://github.com/user-attachments/assets/b6568d1d-874d-42c6-99b4-e75fd373a71e)
-
 #
-
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
-
 #
 
 > Alex: *"I'm a great vehicle concept designer even though I really don't like vehicles."*
