@@ -1126,6 +1126,8 @@ This integration of a loader bucket onto a pickup truck exemplifies how multipur
 [Airborne Car Deployment](https://github.com/sourceduty/Airborne_Car_Deployment)
 <br>
 [Vehicle Accessory](https://github.com/sourceduty/Vehicle_Accessory)
+<br>
+[Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
 
 #
 ![GitHub](https://github.com/user-attachments/assets/362fb430-9e54-4555-bf66-d902a30a58dc)
