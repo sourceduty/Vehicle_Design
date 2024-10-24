@@ -133,6 +133,15 @@ Autonomous vehicles without steering wheels represent a significant shift in how
 The removal of the steering wheel is more than just a cosmetic change; it signals the industry's confidence in full autonomy systems' reliability. Without manual controls, passengers must fully trust the car's ability to transport them safely, relying on vehicle-to-infrastructure communication, real-time data processing, and machine learning algorithms to handle complex road scenarios. This also opens up new possibilities for vehicle interiors, where designs can prioritize passenger interaction and entertainment, rather than the traditional driver-focused setup. Autonomous vehicles without steering wheels offer an innovative transportation solution, promising safer roads by reducing human error while also transforming the passenger experience.
 
 #
+### Gaming Vehicles
+
+![PC Vehicle](https://github.com/user-attachments/assets/d8a68f18-b7cd-4b17-9c08-257e7c280f00)
+
+Installing a GPU into a vehicle for gaming is an exciting and challenging project that merges the power of modern gaming PCs with the mobility of a car. To achieve this, the GPU, which is the heart of gaming performance, needs to be carefully integrated into the vehicle’s electrical system. The setup would involve creating a custom mount to house the graphics card securely within the vehicle, ensuring adequate ventilation to prevent overheating. Since vehicles typically run on a 12V system, an inverter or a dedicated power supply unit (PSU) is essential to convert the car’s DC power into the required AC power for the GPU and other PC components.
+
+Moreover, additional cooling solutions, such as external fans or liquid cooling systems, may be necessary to maintain the GPU’s temperature, especially in a small enclosed space like a car. The positioning of components is critical to allow for proper airflow. A display screen would need to be mounted in the vehicle, potentially replacing traditional in-car entertainment systems. Input devices such as wireless controllers or keyboards can be utilized for seamless gaming on the go. This ambitious project requires technical expertise in both PC building and automotive electrical systems to ensure that everything runs smoothly and safely.
+
+#
 ### Everyday Vehicle Performance
 
 ![Vehicles](https://github.com/user-attachments/assets/18996340-5b19-4ca4-a522-1a1baf7f737d)
