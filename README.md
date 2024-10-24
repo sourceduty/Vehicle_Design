@@ -109,7 +109,7 @@ Remote-controlled driverless drone vehicles represent a significant advancement 
 The technology behind these vehicles includes GPS for navigation, AI algorithms for decision-making, and real-time data transmission to ensure that remote operators can make informed decisions. Applications range from surveillance and reconnaissance to cargo delivery and infrastructure inspection. As the technology evolves, there is potential for increased autonomy, reducing the need for constant human supervision. However, challenges remain, such as ensuring secure communication channels, preventing cyber threats, and achieving seamless integration with existing transportation systems. Overall, remote-controlled driverless drone vehicles are poised to play a crucial role in transforming various sectors by offering a safer and more efficient alternative to traditional manned operations.
 
 #
-### Automotive Museums
+### Museums
 
 ![Automotive Museum](https://github.com/sourceduty/Vehicle_Design/assets/123030236/f311e60a-1e53-4e33-b919-c134bd07c523)
 
@@ -124,7 +124,7 @@ Antique vehicles, typically defined as those that are at least 100 years old, ar
 In addition to cars and motorcycles, vehicle museums often feature a range of other antique transportation methods, including bicycles, horse-drawn carriages, and early aircraft. Each of these exhibits contributes to a broader understanding of how transportation has evolved over the centuries. By preserving and displaying these original, authentic, and antique vehicles, museums play a crucial role in educating the public about the history of transportation. They highlight the ingenuity and creativity of past generations, celebrating the legacy of those who contributed to the development of the vehicles we rely on today.
 
 #
-### Steeringless Vehicles
+### Steeringless 
 
 ![Steeringless Autonomous Vehicle](https://github.com/user-attachments/assets/36c24497-f833-4fa4-99a3-dfb9bd304316)
 
