@@ -1154,5 +1154,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 > *"I don't have a favorite vehicle or vehicle type."*
 
+> "*I might build some concept cars. The pictures are good.*"
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
