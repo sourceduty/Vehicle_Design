@@ -1155,7 +1155,10 @@ This integration of a loader bucket onto a pickup truck exemplifies how multipur
 #
 ![Retro Boogie Van](https://github.com/user-attachments/assets/a88664d5-33dd-4d83-9ed5-ccccf7d038dc)
 #
+![Gullwing Sled](https://github.com/user-attachments/assets/11d965c1-dae7-4ee4-b984-9e22ba9cf69b)
+#
 ![Point at Head](https://github.com/user-attachments/assets/b6568d1d-874d-42c6-99b4-e75fd373a71e)
+
 #
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 #
