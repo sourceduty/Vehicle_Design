@@ -7,9 +7,9 @@
 Vehicle design encompasses a broad spectrum of styles and functionalities, ranging from classic models that evoke nostalgia with their timeless aesthetics to luxury vehicles that prioritize comfort, craftsmanship, and premium materials. High-performance vehicles focus on advanced engineering to maximize speed, agility, and handling, while heavy-duty vehicles are designed for resilience and power, built to withstand demanding tasks and rugged environments. In contrast, electric vehicles represent the forefront of innovation, combining sleek, modern designs with energy-efficient technology to reduce emissions and promote sustainability, all while providing a smooth, silent driving experience. Each category reflects a unique balance of form and function, catering to diverse needs and preferences.
 
 #
-### Safety
+### Laws & Safety
 
-![Offroader](https://github.com/user-attachments/assets/6a86168d-58b5-4a67-9d2e-b7290822fe0c)
+![Cops](https://github.com/user-attachments/assets/4dfcc240-0f44-492c-8160-f9b2b9748901)
 
 The integration of safety features in road vehicles represents a significant expense for manufacturers, which is often passed on to consumers. These costs stem from the development and implementation of advanced technologies like anti-lock braking systems (ABS), electronic stability control (ESC), and collision avoidance systems. Additionally, structural enhancements such as crumple zones and reinforced frames are essential for modern vehicle safety but add to manufacturing costs. Compliance with increasingly stringent safety regulations further drives up expenses, requiring continuous redesigns and extensive testing to meet standards.
 
