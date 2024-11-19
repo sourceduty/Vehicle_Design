@@ -899,8 +899,7 @@ The inclusion of this red light in the Rolls-Royce 103EX Concept exemplifies the
 </details>
 
 #
-
-![Off-Road Formula 1 Racecar](https://github.com/user-attachments/assets/a0ddf67c-409d-4a7a-a519-08f71221b754)
+![Ferrari Limo](https://github.com/user-attachments/assets/ffd7fe96-55e4-4155-8a93-58f9b787ca8c)
 
 #
 ### Vehicle Design Concepts
