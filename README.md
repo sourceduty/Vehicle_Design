@@ -195,6 +195,8 @@ Historically, gas-powered vehicles have shown that with proper care, regular mai
 
 However, the appeal of a vehicle lasting 25 or more years is not universal, as many consumers enjoy the novelty of upgrading to the latest model. Rapid advancements in EV technology—such as enhanced range, ultra-fast charging, and cutting-edge autonomous features—could make older models feel obsolete even if they remain functional. Just as gas-powered car buyers were enticed by new designs and innovations in fuel efficiency, EV consumers may similarly gravitate toward frequent upgrades. The challenge for manufacturers lies in balancing the design of long-lasting vehicles with the ability to integrate new features, allowing for both longevity and adaptability. Whether such vehicles become widely popular will depend on the cultural shift toward valuing durability over novelty or the ability of manufacturers to seamlessly combine both qualities in a single design philosophy.
 
+![Vehicles](https://github.com/user-attachments/assets/d1862d11-aa2f-46a1-a845-46b92603bed3)
+
 #
 ### Notes
 
