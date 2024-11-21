@@ -101,6 +101,11 @@ Revolutionary technology in EVs extends beyond batteries to include sophisticate
 The infrastructure supporting EVs is evolving just as rapidly, with innovations like wireless charging and ultra-fast charging stations. These developments are key to alleviating range anxiety and improving the convenience of EV ownership. Additionally, vehicle-to-grid (V2G) technology allows EVs to not only consume energy but also contribute back to the grid, helping to stabilize energy demand and supporting renewable energy integration. Together, these technological advancements are making EVs a cornerstone of sustainable, smart transportation systems.
 
 #
+### Bench Seats
+
+Front bench seats in vehicles have largely disappeared due to changes in consumer preferences, safety regulations, and vehicle design. Modern cars are designed to prioritize individual comfort and safety, with bucket seats offering better support, adjustability, and ease of use. Additionally, advancements in safety, such as side airbags and seatbelt positioning, have made it more challenging to integrate a bench seat that can safely accommodate multiple passengers. The rise of center consoles for additional storage, controls, and comfort features further reduced the demand for front bench seats, as these consoles offer a more practical and organized space for drivers and passengers.
+
+#
 ### Driverless
 
 ![RC Cars](https://github.com/user-attachments/assets/d26a4eaf-9204-486d-8382-6af3dede39a7)
