@@ -56,7 +56,14 @@ Diesel engines generally require longer warm-up times compared to gasoline engin
  Electric (EV) | 0°C (32°F)          | 0                    
  Electric (EV) | 10°C (50°F)         | 0                    
  Electric (EV) | 20°C (68°F)         | 0                    
- Electric (EV) | 30°C (86°F)         | 0                    
+ Electric (EV) | 30°C (86°F)         | 0        
+
+#
+### E-PTO
+
+![PTO](https://github.com/user-attachments/assets/55128df2-5dfc-4384-8e11-a14a11a71bb1)
+
+In electric trucks, the PTO system utilizes the vehicle's electric drivetrain to power auxiliary equipment, revolutionizing its application in industries like construction, logistics, and emergency services. Electric PTOs efficiently supply energy to hydraulic systems, winches, or compressors, with the added benefit of silent operation and reduced environmental impact. For example, in urban settings, an electric truck can run a hydraulic lift for waste collection or refrigeration units for cold chain logistics without disturbing residential areas or contributing to air pollution. This integration of electric PTOs in trucks not only boosts functionality but also supports the transition to cleaner, more sustainable commercial vehicles.
 
 #
 ### Innovative and Evolutionary Vehicle Design
